@@ -120,7 +120,7 @@ body {
   width: 320px;
   height: 497px;
   background: var(--clr-neutral-100);
-  box-shadow: 0 50px 50px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 20px 50px rgba(0, 0, 0, 0.1);
 }
 
 .qrcard__content {
