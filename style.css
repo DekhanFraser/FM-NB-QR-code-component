@@ -86,6 +86,8 @@ h6 {
     --clr-grayishblue: hsl(220, 15%, 55%);
     --clr-darkblue: hsl(218, 44%, 22%);
 
+    --ff-base: 'Outfit', sans-serif;
+
     --fw-regular: 500;
     --ff-bold: 700;
 }
